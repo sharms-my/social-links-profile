@@ -26,7 +26,7 @@ main
     flex-direction: column;
     align-items: center;
     text-align: center;
-    padding: 2em;
+    padding: 2.5em;
     transition: ease 0.5s;
     &:hover
     {
@@ -37,7 +37,7 @@ main
         width: 85px;
         border-radius: 50%;
         overflow: hidden;
-        margin-bottom: 1.5em;
+        margin-bottom: 1.75em;
     }
     &__author
     {
@@ -49,14 +49,13 @@ main
         &-address
         {
             color: $theme-primary-color;
-            margin-bottom: 1.5em;
+            margin-bottom: 1.75em;
             font-size: 0.875em;
             font-weight: 600;
         }
         &-title
         {
-            font-size: 0.875em;
-            margin-bottom: 1.5em;
+            margin-bottom: 1.75em;
         }
     }
     &__socials
@@ -71,7 +70,7 @@ main
             {
                 font-weight: bold;
                 display: block;
-                padding: 1em 5.5em;
+                padding: 1em 6em;
                 cursor: url(assets/images/handcursor.svg), auto;
             }
             &:last-child {

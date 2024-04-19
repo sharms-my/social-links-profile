@@ -22,13 +22,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
-
+![Desktop](https://github.com/sharms-my/social-links-profile/blob/master/design/destkop-design.jpg)
+![mobile](https://github.com/sharms-my/social-links-profile/blob/master/design/mobile-design.jpg)
 
 ### Links
 
-- [Solution URL](https://your-solution-url.com)
-- [Live Site URL](https://your-live-site-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/social-links-profile-sass-and-flexbox-ZWR2jLNsc4)
+- [Live Site URL](https://social-links-profile-sharmsmy.vercel.app/)
 
 ## My process
 
@@ -43,4 +43,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@sharms-my](https://www.frontendmentor.io/profile/sharms-my)

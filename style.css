@@ -57,7 +57,7 @@ main {
   flex-direction: column;
   align-items: center;
   text-align: center;
-  padding: 2em;
+  padding: 2.5em;
   transition: ease 0.5s;
 }
 .card:hover {
@@ -67,7 +67,7 @@ main {
   width: 85px;
   border-radius: 50%;
   overflow: hidden;
-  margin-bottom: 1.5em;
+  margin-bottom: 1.75em;
 }
 .card__author-name {
   font-size: 1.5em;
@@ -75,13 +75,12 @@ main {
 }
 .card__author-address {
   color: hsl(75, 94%, 57%);
-  margin-bottom: 1.5em;
+  margin-bottom: 1.75em;
   font-size: 0.875em;
   font-weight: 600;
 }
 .card__author-title {
-  font-size: 0.875em;
-  margin-bottom: 1.5em;
+  margin-bottom: 1.75em;
 }
 .card__socials li {
   background-color: hsl(0, 0%, 20%);
@@ -92,7 +91,7 @@ main {
 .card__socials li > a {
   font-weight: bold;
   display: block;
-  padding: 1em 5.5em;
+  padding: 1em 6em;
   cursor: url(assets/images/handcursor.svg), auto;
 }
 .card__socials li:last-child {
